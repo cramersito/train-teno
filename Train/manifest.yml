@@ -1,0 +1,5 @@
+---
+applications:
+- name: app-train
+  random-route: true
+  memory: 128M
